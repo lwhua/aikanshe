@@ -1,4 +1,4 @@
-# learnOpenCVForJava
+# LearnOpenCVForJava
 在这里会不断更新使用SpingBoot开发opencv的经验，网上很多教程都是使用C++和Python，这里选择Java语言的原因是：适合在web中集成OpenCV，C++开发门槛较高，Python性能欠佳，所以折中考虑选择Java。
 
 # 目录

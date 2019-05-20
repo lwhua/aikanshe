@@ -1,5 +1,5 @@
-# LearnOpenCVForJava
-SpingBoot开发opencv的经验，网上很多教程都是使用C++和Python，这里选择Java语言的原因是：适合在web中集成OpenCV，C++开发门槛较高，Python性能欠佳，所以折中考虑选择Java。
+# SpingBoot、OpenCV、yolo开发人工智能小程序经验分享
+本项目分享使用SpingBoot、opencv、yolo的开发经验，网上很多教程都是使用C++和Python，这里选择Java语言的原因是：适合在web中集成OpenCV，C++开发门槛较高，Python性能欠佳，所以折中考虑选择Java。
 
 # 目录
 1. [环境搭建](/tutorials/环境搭建.md)

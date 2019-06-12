@@ -1,7 +1,6 @@
-#神经网络
+# 神经网络
 
-
-##样例：
+## 样例：
 
 ```
 	Net net = Dnn.readNetFromDarknet(cfgFile, weights);

@@ -2,7 +2,7 @@
 
 分离指定区域的前景和背景图片
 
-##样例：
+## 样例：
 ```
 	Rect rect = new Rect(point1,point2);
 	Mat frame = Imgcodecs.imread("2.jpg");

@@ -15,4 +15,3 @@
 11. [截取ROI](/tutorials/截取ROI.md)
 12. [阈值化](/tutorials/阈值化.md)
 13. [yolo教程集合](/tutorials/yolo.md)
-14. [小程序教程集合](/tutorials/小程序.md)

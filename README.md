@@ -2,7 +2,7 @@
 本项目分享使用SpingBoot、OpenCV、yolo的开发经验，网上很多教程都是使用C++和Python，这里选择Java语言的原因是：适合在web中集成OpenCV，C++开发门槛较高，Python性能欠佳，所以折中考虑选择Java。网站：[AI看舌](https://www.aikanshe.com/)
 
 AI看舌公众号已经上线，其中会分享我十年来的全栈架构经验，敬请关注。
-![扫码体验](https://file.aikanshe.com/qrcode_for_gh_51ea768251b4_258.jpg)
+(https://file.aikanshe.com/qrcode_for_gh_51ea768251b4_258.jpg)
 
 # 目录
 1. [环境搭建](/tutorials/环境搭建.md)
